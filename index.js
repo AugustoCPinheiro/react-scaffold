@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 const prog = require("caporal");
-const createCmd = require("./lib/create");
+const createCmd = require("./create");
 
 prog
   .version("1.0.0")
